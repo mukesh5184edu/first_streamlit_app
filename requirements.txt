@@ -1,1 +1,1 @@
-snowflake-connector-python.py
+snowflake-connector-python[pandas]
